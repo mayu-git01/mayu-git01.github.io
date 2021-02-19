@@ -1,0 +1,107 @@
+*{
+  /* background-color: #EEEEEE; */
+}
+body{
+  background-image: url(../images/steve-johnson-YS0YJLU_h2k-unsplash.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: scroll;
+  float: left;
+}
+h1{
+  text-align: center;
+  text-decoration: #FF6347 solid 3px underline;
+  color: #444444;
+  text-shadow: 3px 5px 6px #F0FFF0;
+  letter-spacing: 2px;
+  font-style: oblique;
+}
+h2{
+  font-size: 20px;
+  color: #EEEEEE;
+  font-style: oblique;
+  text-indent: 10px;
+}
+h3{
+  text-align: center;
+  color: #444444
+}
+span{
+  color: #ab987a;
+  font-size: 25px;
+  font-style: oblique;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* text-decoration: peru solid 2px underline; */
+}
+img{
+  width: 500px;
+  height: 600px;
+  float: left;
+  padding: 0px 15px 0px 80px;
+}
+p{
+  font-style: oblique;
+}
+p.par1{
+  clear: left;
+}
+table{
+  empty-cells: show;
+  border-collapse: collapse;
+  margin: 0px 0px 0px 80px;
+  font-size: 6px;
+  color: #EEEEEE;
+  background-color: #444444;
+  /* clear: right; */
+}
+#par1{
+  background-color: #bfd8d2;
+  /* border: #444444 1px solid; */
+  padding: 20px 20px 20px 20px;
+  margin: 0px 0px 30px 610px;
+  width: 700px;
+}
+#par2{
+  background-color: #fedcd2;
+  /* border: #444444 1px solid; */
+  padding: 20px 20px 20px 20px;
+  margin: 0px 0px 30px 610px;
+  width: 700px;
+}
+#par3{
+  background-color: #FFDAB9;
+  /* border: #444444 1px solid; */
+  /* background-size: 150px 700px; */
+  padding: 20px 20px -10px 20px;
+  margin: 0px 0px 10px 610px;
+  width: 700px;
+  height: 150px;
+  overflow: scroll;
+
+}
+h5{
+  text-align: right;
+  padding: 50px 50px 0px 0px;
+  float: right;
+}
+.sub-content h2{
+  background-color: #2F4F4F;
+  clear: right;
+  padding: 20px 0px 10px 30px;
+}
+ul li{
+  list-style-type: none;
+
+}
+ol li{
+  list-style-position: inside;
+  list-style-type: upper-roman;
+}
+li{
+  font-size: 15px;
+  color: #444444;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
